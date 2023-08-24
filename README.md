@@ -12,3 +12,4 @@
 1. JDBC URL = jdbc:h2:mem:shop
 2. User Name = sa
 3. Password = password
+test
